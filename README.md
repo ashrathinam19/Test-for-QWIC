@@ -4,3 +4,4 @@ To Run the test script you will need following. This test runs only on Chrome br
   - selenium library for python.
   - Instal chrome driver for seleniu,
   
+You Can also find the Test Scenario file in this repo. Not all the test scenario are automated. I have given sample code to test few test scenarios.
